@@ -1,0 +1,14 @@
+/**
+ * ----------------------------------------------------------------------------
+ * #.# Frontend CSS
+ *
+ * BLOCK: 01-basic block CSS for the editor & front end.
+ * ----------------------------------------------------------------------------
+ */
+
+.wp-block-gb-hello-world {
+  color: #009955;
+  background: purple;
+  border: 0.5rem solid red;
+  padding: 1rem;
+}
